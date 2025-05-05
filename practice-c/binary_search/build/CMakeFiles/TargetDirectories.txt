@@ -1,0 +1,5 @@
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/build/CMakeFiles/binary_search.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/build/CMakeFiles/run.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/build/CMakeFiles/valgrind.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/build/CMakeFiles/edit_cache.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/build/CMakeFiles/rebuild_cache.dir

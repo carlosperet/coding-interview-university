@@ -1,0 +1,5 @@
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/build/CMakeFiles/hash_table.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/build/CMakeFiles/run.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/build/CMakeFiles/valgrind.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/build/CMakeFiles/edit_cache.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/build/CMakeFiles/rebuild_cache.dir

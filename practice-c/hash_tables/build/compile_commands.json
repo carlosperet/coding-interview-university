@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu11 -o CMakeFiles/hash_table.dir/main.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/main.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/main.c"
+},
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu11 -o CMakeFiles/hash_table.dir/hash_table.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/hash_table.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/hash_table.c"
+},
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu11 -o CMakeFiles/hash_table.dir/hash_map_tests.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/hash_map_tests.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/hash_tables/hash_map_tests.c"
+}
+]

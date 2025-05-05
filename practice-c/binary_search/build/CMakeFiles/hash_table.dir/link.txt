@@ -1,0 +1,1 @@
+clang CMakeFiles/hash_table.dir/main.c.o CMakeFiles/hash_table.dir/binary_search.c.o CMakeFiles/hash_table.dir/tests.c.o -o hash_table 

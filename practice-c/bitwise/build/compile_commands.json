@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/bitwise/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu2x -o CMakeFiles/bitwise.dir/bitwise.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/bitwise/bitwise.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/bitwise/bitwise.c"
+}
+]

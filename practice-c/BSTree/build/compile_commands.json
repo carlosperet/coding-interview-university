@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu2x -o CMakeFiles/bstree.dir/main.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/main.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/main.c"
+},
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu2x -o CMakeFiles/bstree.dir/bstree.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/bstree.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/bstree.c"
+},
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu2x -o CMakeFiles/bstree.dir/bst_test.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/bst_test.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/bst_test.c"
+}
+]

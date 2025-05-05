@@ -1,0 +1,1 @@
+clang CMakeFiles/bitwise.dir/bitwise.c.o -o bitwise 

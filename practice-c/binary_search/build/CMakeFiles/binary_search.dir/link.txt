@@ -1,0 +1,1 @@
+clang CMakeFiles/binary_search.dir/main.c.o CMakeFiles/binary_search.dir/binary_search.c.o CMakeFiles/binary_search.dir/tests.c.o -o binary_search 

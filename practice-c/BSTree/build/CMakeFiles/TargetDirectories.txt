@@ -1,0 +1,5 @@
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/build/CMakeFiles/bstree.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/build/CMakeFiles/run.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/build/CMakeFiles/valgrind.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/build/CMakeFiles/edit_cache.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/BSTree/build/CMakeFiles/rebuild_cache.dir

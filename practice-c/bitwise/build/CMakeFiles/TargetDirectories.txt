@@ -1,0 +1,5 @@
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/bitwise/build/CMakeFiles/bitwise.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/bitwise/build/CMakeFiles/run.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/bitwise/build/CMakeFiles/valgrind.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/bitwise/build/CMakeFiles/edit_cache.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/bitwise/build/CMakeFiles/rebuild_cache.dir

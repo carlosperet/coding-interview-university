@@ -1,0 +1,5 @@
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/matrix/build/CMakeFiles/matrix.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/matrix/build/CMakeFiles/run.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/matrix/build/CMakeFiles/valgrind.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/matrix/build/CMakeFiles/edit_cache.dir
+/home/carlosperet_/projects/learning/coding-interview-university/practice-c/matrix/build/CMakeFiles/rebuild_cache.dir

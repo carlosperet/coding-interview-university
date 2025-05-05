@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/matrix/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu11 -o CMakeFiles/matrix.dir/main.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/matrix/main.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/matrix/main.c"
+},
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/matrix/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu11 -o CMakeFiles/matrix.dir/matrix.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/matrix/matrix.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/matrix/matrix.c"
+}
+]

@@ -1,0 +1,17 @@
+[
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu2x -o CMakeFiles/binary_search.dir/main.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/main.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/main.c"
+},
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu2x -o CMakeFiles/binary_search.dir/binary_search.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/binary_search.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/binary_search.c"
+},
+{
+  "directory": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/build",
+  "command": "clang   -Wall -Wextra -pedantic -std=gnu2x -o CMakeFiles/binary_search.dir/tests.c.o -c /home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/tests.c",
+  "file": "/home/carlosperet_/projects/learning/coding-interview-university/practice-c/binary_search/tests.c"
+}
+]
