@@ -247,3 +247,14 @@ int Find_height(BstNode *root) {
 
 	return (leftHeight > rightHeight ? leftHeight : rightHeight) + 1;
 }
+
+/* 
+* 0 is Preorder
+* 1 is 
+*/
+void Depth_BS(BstNode *root, int type, int *result) {
+	if (type < 0 || type > 2) return;
+	if (type == 0) {
+		result[0] = root->data;
+	}
+}
